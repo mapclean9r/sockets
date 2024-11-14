@@ -1,0 +1,4 @@
+force shutdown copy pasta ;S
+
+netstat -ano | findstr :1337
+taskkill /PID <pid> /F
